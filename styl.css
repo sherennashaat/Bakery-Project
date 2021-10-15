@@ -1,0 +1,232 @@
+
+/* .corner{
+    width: 35px;
+    height: 70px;
+    background-color:white;
+    border-radius: 4px;
+    position: absolute;
+    right: 0;
+    bottom:350px ;
+    position: fixed;
+}
+
+
+.nav{
+    position: fixed;
+    width: 100%;
+    padding: 20px 0px;
+    background:rgba(0, 0, 0, 0.1);
+
+}
+.data{
+    float: right;
+}
+.logo{
+    float: left;
+}
+.logo img
+{
+    width:50%; }
+.nav ul
+{
+    list-style-type: none;
+    padding-right: 20px;
+    padding-top:15px;
+   
+}
+.nav li
+{
+    color: white;
+    float: left;
+    padding: 0px 15px;
+    margin-bottom: 1%;
+    text-align: center;
+}
+li a{
+    color: white;
+     text-decoration:none; 
+    font-size: large;} */
+
+  .navbar{
+    background-color: #21252933!important;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;  
+    z-index: 99;
+}  
+.row{
+
+    margin-right: 0px !important;
+}
+ /* .navbar-light{
+    position: fixed;
+    background:rgba(0, 0, 0, 0.1) !important;
+    width: 100% !important;
+}  */
+.navbar-light a{
+color: whitesmoke !important;
+
+}
+.home{
+    background-image: url(cover\ \(2\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;  
+    background-position: center center;
+    height: 100vh;
+   
+   }
+   
+.content-one{
+    color: honeydew;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+}
+.content-one h1{
+    font-family: "Alegreya";
+    font-size: 80px;
+    text-transform: none;
+    font-weight: 350px;
+}
+.content-one p{ 
+    font-size: 24px;
+    font-weight: 250px; 
+    margin-top: 20px;
+}
+
+.content-one button{
+ color: lavender;
+ padding: 10px 30px;
+ border-radius: 5px;
+ font-size: 18px;
+}
+
+.bt-2{
+    background-color:transparent;
+    border: white solid 2px;
+    margin-left: 4px;
+}
+.bt-1{
+    background-color: rgb(142, 119, 84);
+    border: none;
+    margin-right: 4px;
+}
+
+ 
+   .two h2{
+    font-family: "Alegreya";
+    font-size: xx-large;
+   font-weight: 500;
+   margin-bottom: 40px;
+   } 
+
+
+   .two p{
+    color: rgb(94, 97, 97);
+    font-size: 19px;
+    margin: 10px;
+   }
+
+.our-sec{
+    background-color: rgb(237, 237, 243);
+} 
+
+.our-sec h2{
+    color: #000;
+    margin-bottom: 40px;
+    font-weight: normal;
+    font-size: xx-large;
+    font-family: "Alegreya";
+}
+
+
+.our-sec p{
+    color: rgb(129, 127, 127);
+    font-size: 17px;
+}
+
+
+.baking h2{
+    margin: 30px 30px ;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: normal;
+    font-family: "Alegreya";
+}
+.baking p{
+    text-align: center;
+    margin-bottom: 55px;
+    color: rgb(68, 68, 68);
+    font-size: large;
+}
+.discribtion h2{
+    margin: 20px 20px;
+    font-weight: normal;
+    font-family: "Alegreya";
+}
+.discribtion p{
+    font-size: large;
+    color: gray;
+}
+
+.map{
+    background-color: rgb(248, 246, 247);
+}
+
+.map h2{
+    font-size: 30px;
+    font-weight: normal;
+    text-align: left;
+    font-family: "Alegreya";
+}
+.map p{
+    font-size: 20px;
+    font-weight: normal;
+    color: rgb(87, 85, 85);
+}
+
+.foot{
+    background-color: #413e39;
+}
+
+.foot h2 , .foot-1 h2{
+    color: whitesmoke;
+    font-size: 24px;
+    font-family: serif;
+    padding-bottom: 20px;
+    font-family: "Alegreya";
+}
+
+
+.foot p , .foot-1 p{
+    color: rgb(185, 181, 181);
+    font-size: large;
+    margin-top: 10px 20px;
+}
+
+.foot ul , .foot-1 ul{
+    list-style-type: none;
+    color: rgb(185, 181, 181);
+    
+}
+.foot li , .foot-1 li{
+    border-bottom:  rgb(185, 181, 181)  solid  0.1px;
+    margin: 20px ;
+}
+.foot li a , .foot-1 li a{  
+    list-style-type: none;
+    color: rgb(185, 181, 181);
+    text-decoration: none;
+}
+.foot-1{
+    background-image: url(map.png);
+}
+
+.end{
+ background-color: rgb(37, 37, 36);
+color: rgb(185, 181, 181);
+text-align: center;
+}
