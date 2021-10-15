@@ -1,51 +1,4 @@
 
-/* .corner{
-    width: 35px;
-    height: 70px;
-    background-color:white;
-    border-radius: 4px;
-    position: absolute;
-    right: 0;
-    bottom:350px ;
-    position: fixed;
-}
-
-
-.nav{
-    position: fixed;
-    width: 100%;
-    padding: 20px 0px;
-    background:rgba(0, 0, 0, 0.1);
-
-}
-.data{
-    float: right;
-}
-.logo{
-    float: left;
-}
-.logo img
-{
-    width:50%; }
-.nav ul
-{
-    list-style-type: none;
-    padding-right: 20px;
-    padding-top:15px;
-   
-}
-.nav li
-{
-    color: white;
-    float: left;
-    padding: 0px 15px;
-    margin-bottom: 1%;
-    text-align: center;
-}
-li a{
-    color: white;
-     text-decoration:none; 
-    font-size: large;} */
 
   .navbar{
     background-color: #21252933!important;
@@ -59,17 +12,12 @@ li a{
 
     margin-right: 0px !important;
 }
- /* .navbar-light{
-    position: fixed;
-    background:rgba(0, 0, 0, 0.1) !important;
-    width: 100% !important;
-}  */
 .navbar-light a{
 color: whitesmoke !important;
 
 }
 .home{
-    background-image: url(cover\ \(2\).jpg);
+    background-image: url(images/cover\ \(2\).jpg);
     background-size: cover;
     background-repeat: no-repeat;  
     background-position: center center;
@@ -222,7 +170,7 @@ color: whitesmoke !important;
     text-decoration: none;
 }
 .foot-1{
-    background-image: url(map.png);
+    background-image: url(images/map.png);
 }
 
 .end{
